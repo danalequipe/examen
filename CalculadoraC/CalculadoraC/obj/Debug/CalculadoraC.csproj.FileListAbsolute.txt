@@ -1,0 +1,10 @@
+C:\Users\Ana\source\repos\CalculadoraC\CalculadoraC\bin\Debug\CalculadoraC.exe.config
+C:\Users\Ana\source\repos\CalculadoraC\CalculadoraC\bin\Debug\CalculadoraC.exe
+C:\Users\Ana\source\repos\CalculadoraC\CalculadoraC\bin\Debug\CalculadoraC.pdb
+C:\Users\Ana\source\repos\CalculadoraC\CalculadoraC\obj\Debug\CalculadoraC.csprojAssemblyReference.cache
+C:\Users\Ana\source\repos\CalculadoraC\CalculadoraC\obj\Debug\CalculadoraC.Form1.resources
+C:\Users\Ana\source\repos\CalculadoraC\CalculadoraC\obj\Debug\CalculadoraC.Properties.Resources.resources
+C:\Users\Ana\source\repos\CalculadoraC\CalculadoraC\obj\Debug\CalculadoraC.csproj.GenerateResource.cache
+C:\Users\Ana\source\repos\CalculadoraC\CalculadoraC\obj\Debug\CalculadoraC.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\CalculadoraC\CalculadoraC\obj\Debug\CalculadoraC.exe
+C:\Users\Ana\source\repos\CalculadoraC\CalculadoraC\obj\Debug\CalculadoraC.pdb
